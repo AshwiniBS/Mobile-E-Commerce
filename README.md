@@ -1,5 +1,13 @@
 # Mobile-E-Commerce
 
+[![AppVeyor branch](https://img.shields.io/appveyor/ci/gruntjs/grunt/master.svg?style=for-the-badge)](https://github.com/AshwiniBS/Mobile-E-Commerce/)
+
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://www.twitter.com)
+
+[![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg?style=for-the-badge)](https://github.com/AshwiniBS/Mobile-E-Commerce/)
+
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/badges/shields.svg?style=for-the-badge)](https://github.com/AshwiniBS/Mobile-E-Commerce/)
+
 https://ashwinibs.github.io/Mobile-E-Commerce/
 
 A ReactJS web application for a store which can sell mobile devices. 
