@@ -4,9 +4,9 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://www.twitter.com)
 
-[![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg?style=for-the-badge)](https://github.com/AshwiniBS/Mobile-E-Commerce/)
-
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/badges/shields.svg?style=for-the-badge)](https://github.com/AshwiniBS/Mobile-E-Commerce/)
+[![GitHub code size in bytes](
+https://img.shields.io/badge/Code%20Size-370KB-blue.svg?logo=appveyor&style=for-the-badge
+)](https://github.com/AshwiniBS/Mobile-E-Commerce/)
 
 https://ashwinibs.github.io/Mobile-E-Commerce/
 
